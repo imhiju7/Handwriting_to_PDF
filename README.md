@@ -1,1 +1,1 @@
-# Vietnamese_Handwriting_to_PDF
+# Handwriting_to_PDF
