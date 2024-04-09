@@ -1,0 +1,7 @@
+editdistance==0.6.2
+lmdb==1.4.0
+matplotlib==3.5.0
+numpy==1.23.5
+opencv-python==4.4.0.46
+path==16.6.0
+tensorflow==2.8.0
